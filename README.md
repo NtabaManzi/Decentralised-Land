@@ -11,3 +11,7 @@ Create scenes, artworks, challenges and more, using the simple Builder tool, the
 Trade
 The virtual destination for digital assets
 Buy and sell LAND, Estates, Avatar wearables and names in the Decentraland Marketplace: stocking the very best digital goods and paraphernalia backed by the ethereum blockchain.
+
+
+[MTN Business App Academy(IT Varsity).pdf](https://github.com/NtabaManzi/Decentralised-Land/files/7101743/MTN.Business.App.Academy.IT.Varsity.pdf)
+
